@@ -1,0 +1,3 @@
+rootProject.name = 'vjezba4'
+
+include ':app'
